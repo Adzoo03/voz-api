@@ -1,0 +1,28 @@
+{
+  "vozovi": [
+    {
+      "id": 1,
+      "relacija": "Čačak – Kraljevo",
+      "polazak": "Svaki dan",
+      "cena": 250
+    },
+    {
+      "id": 2,
+      "relacija": "Čačak – Požega",
+      "polazak": "Svaki dan",
+      "cena": 250
+    },
+    {
+      "id": 3,
+      "relacija": "Čačak – Užice",
+      "polazak": "Svaki dan",
+      "cena": 370
+    }
+    {
+      "id": 4,
+      "relacija": "Čačak – Kosovska Mitrovica",
+      "polazak": "Svaki dan",
+      "cena": 700
+    }
+  ]
+}
