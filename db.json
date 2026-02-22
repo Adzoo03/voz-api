@@ -4,25 +4,25 @@
       "id": 1,
       "relacija": "Čačak – Kraljevo",
       "polazak": "Svaki dan",
-      "cena": 250
+      "slika": "https://drive.google.com/file/d/1Mti6Jl41E0hLLc0DQ7t-VnpY90aZ0cNT/view?usp=sharing"
     },
     {
       "id": 2,
       "relacija": "Čačak – Požega",
       "polazak": "Svaki dan",
-      "cena": 250
+      "slika": "https://drive.google.com/file/d/1IJq421Z1K9j6Z1aCxQiQvzzPZC6eTd98/view?usp=sharing"
     },
     {
       "id": 3,
       "relacija": "Čačak – Užice",
       "polazak": "Svaki dan",
-      "cena": 370
+      "slika": "https://drive.google.com/file/d/1D0v5Cjnk4RXBxVuBJK4bqU22kB79nACz/view?usp=sharing"
     }
     {
       "id": 4,
       "relacija": "Čačak – Kosovska Mitrovica",
       "polazak": "Svaki dan",
-      "cena": 700
+      "slika": "https://drive.google.com/file/d/1ouh9OlEk2o7tR02nP4JgUW8aU5xwYPz1/view?usp=sharing"
     }
   ]
 }
